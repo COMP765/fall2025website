@@ -6,14 +6,10 @@
       "title": "Docs",
       "supermenuGroup": [
         {
-          "title": "Introduction",
+          "title": "COMP 765 - Intelligent Robotics",
           "items": [
             {
               "slug": "content/docs/index.mdx",
-              "_template": "item"
-            },
-            {
-              "slug": "content/docs/introduction/showcase.mdx",
               "_template": "item"
             }
           ]

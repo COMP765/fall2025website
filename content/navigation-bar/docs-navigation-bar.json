@@ -9,11 +9,11 @@
           "title": "COMP 765 - Intelligent Robotics",
           "items": [
             {
-              "slug": "content/docs/lectures.mdx",
+              "slug": "content/docs/index.mdx",
               "_template": "item"
             },
             {
-              "slug": "content/docs/index.mdx",
+              "slug": "content/docs/lectures.mdx",
               "_template": "item"
             }
           ]

@@ -9,7 +9,7 @@
           "title": "COMP 765 - Intelligent Robotics",
           "items": [
             {
-              "slug": "content/docs/introduction-to-robotics.mdx",
+              "slug": "content/docs/lectures.mdx",
               "_template": "item"
             },
             {
